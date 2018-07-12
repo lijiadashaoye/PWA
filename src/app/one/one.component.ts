@@ -10,6 +10,6 @@ export class OneComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.imgData = 'assets/1.jpg'
+    this.imgData = '../../assets/1.jpg'
   }
 }
