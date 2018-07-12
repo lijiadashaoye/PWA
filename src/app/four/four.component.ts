@@ -10,6 +10,6 @@ export class FourComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.imgData = 'assets/2.jpg'
+    this.imgData = 'assets/ff.jpg'
   }
 }
