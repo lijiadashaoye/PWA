@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./three.component.css']
 })
 export class ThreeComponent implements OnInit {
-  imgData;
+  imgData:string;
   constructor() { }
 
   ngOnInit() {
-    this.imgData = '/assets/image/ss.jpg'
+    this.imgData = 'assets/image/2.jpg'
   }
 }
