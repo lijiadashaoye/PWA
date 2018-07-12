@@ -2,5 +2,13 @@
   four works!
 </p>
 <div>
-  <img ng-src="imgData">
+  <div>
+    <img src="{{imgData}}">
+    <img [src]="imgData">
+    <img [src]="'assets/image/2.jpg'">
+    <img [src]="'/assets/image/2.jpg'">
+    <img [src]="'../../assets/image/2.jpg'">
+    <img src="{{'/assets/image/2.jpg'}}">
+    <img src="{{'../../assets/image/2.jpg'}}">
+  </div>
 </div>

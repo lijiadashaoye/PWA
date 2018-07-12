@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-div img{
+div>img{
     width:65%;
     height:60vh;
     display:block;
