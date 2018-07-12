@@ -8,12 +8,16 @@ import { AppComponent } from './app.component';
 import { environment } from '../environments/environment';
 import { OneComponent } from './one/one.component';
 import { TwoComponent } from './two/two.component';
-import { MainRoutingModule } from './route'
+import { MainRoutingModule } from './route';
+import { ThreeComponent } from './three/three.component';
+import { FourComponent } from './four/four.component'
 @NgModule({
   declarations: [
     AppComponent,
     OneComponent,
-    TwoComponent
+    TwoComponent,
+    ThreeComponent,
+    FourComponent
   ],
   imports: [
     BrowserModule,
