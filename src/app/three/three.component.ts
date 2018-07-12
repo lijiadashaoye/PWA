@@ -10,6 +10,6 @@ export class ThreeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.imgData = 'assets/image/2.jpg'
+    this.imgData = 'assets/ss.jpg'
   }
 }
