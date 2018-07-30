@@ -10,7 +10,7 @@
         "https://lijiadashaoye.github.io/pwa/favicon.ico",
         "https://lijiadashaoye.github.io/pwa/index.html",
         "https://lijiadashaoye.github.io/pwa/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://lijiadashaoye.github.io/pwa/main.fa0ecf83f4dd3d46187b.bundle.js",
+        "https://lijiadashaoye.github.io/pwa/main.aa0f65b6640ca5393664.bundle.js",
         "https://lijiadashaoye.github.io/pwa/polyfills.515ed9df1f4876ab6cb6.bundle.js",
         "https://lijiadashaoye.github.io/pwa/styles.6ae76048f9c206775ac7.bundle.css"
       ],
@@ -32,12 +32,12 @@
   "hashTable": {
     "https://lijiadashaoye.github.io/pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "https://lijiadashaoye.github.io/pwa/assets/2.jpg": "d8dc3afc74df713d6f2be9a57c975758297bbd62",
-    "https://lijiadashaoye.github.io/pwa/main.fa0ecf83f4dd3d46187b.bundle.js": "acae4e98fc4559f667160517e6e328d9c4e93576",
+    "https://lijiadashaoye.github.io/pwa/main.aa0f65b6640ca5393664.bundle.js": "74a495ab40a04cf913571b0163b3e096de3f1b72",
     "https://lijiadashaoye.github.io/pwa/assets/ff.jpg": "1a515855aab6572e7fc79b29aefbaffb50030e56",
     "https://lijiadashaoye.github.io/pwa/polyfills.515ed9df1f4876ab6cb6.bundle.js": "6ebdefc4109733be272a80dfeb6d48a9ace11267",
     "https://lijiadashaoye.github.io/pwa/assets/ss.jpg": "afa38d06ef4a3bafad80dfb3ef9bc035aa79f2ef",
     "https://lijiadashaoye.github.io/pwa/styles.6ae76048f9c206775ac7.bundle.css": "ba09a83e1ee5e5826ad7df467673e23fd4a2e3bf",
     "https://lijiadashaoye.github.io/pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://lijiadashaoye.github.io/pwa/index.html": "716f52a1b45c27449077973a30bb9793c5ea84a1"
+    "https://lijiadashaoye.github.io/pwa/index.html": "5f1ac5af8bcffbb7a16dfc5584e9e6048a831884"
   }
 }
